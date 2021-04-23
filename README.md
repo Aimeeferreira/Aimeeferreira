@@ -1,4 +1,4 @@
-## Oii! 
+## Hey!! I'm Aimée
 
 <img align="right" alt = "Aimee-avatar" src="https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/perfi..1%20(3).gif" >
 
