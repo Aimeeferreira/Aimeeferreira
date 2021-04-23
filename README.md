@@ -1,4 +1,10 @@
-## Hey!! I'm Aimée
+## Hey, Welcomed!!
+
+- 19 years 👩🏾
+- Itaúna - MG, Brasil 🏠
+- I am studying the 3rd period in Computer Science 🎓
+- Focused on Full Stack, currently studying C# and HTML 🎯
+- In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎹🎸🎤), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
 
 <img align="right" alt = "Aimee-avatar" src="https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/perfi..1%20(3).gif" >
 
@@ -10,7 +16,9 @@
 <a href = "https://www.instagram.com/aimeeferreira_/?hl=pt-br" target = "_blank" >
 <img align = "center" alt = "Aimee-Instagram" heigth = "30" width = "40" src = "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"  style = "max-width:100%;" > </a>
 
-
+## My Skills:
+<img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  style = "max-width:100%;" > </img>
+<img align = "center" alt = "Aimee-html" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style = "max-width:100%;" > </img>
 
 <!--
 **Aimeeferreira/Aimeeferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
