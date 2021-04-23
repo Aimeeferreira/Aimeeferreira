@@ -9,7 +9,7 @@
 <img align="right" alt = "Aimee-avatar" src="https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/perfi..1%20(3).gif" >
 
 ## Connect with me:
-<a href = "aimeeferreira19@gmail.com" target = "_blank" >
+<a href = "mailto: aimeeferreira19@gmail.com" target = "_blank" >
 <img align = "center" alt = "Aimee-Gmail" heigth = "30" width = "40" src = "https://image.flaticon.com/icons/png/512/281/281769.png"  style = "max-width:100%;" > </a>
 <a href = "https://www.linkedin.com/in/aimeeferreiraa/" target = "_blank" >
 <img align = "center" alt = "Aimee-Linkedin" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  style = "max-width:100%;" > </a>
