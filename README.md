@@ -1,6 +1,6 @@
 ## Oii! 
 
-< img alin = "right" alt = "Aimee-avatar" = src = " file:///C:/Users/User/Downloads/ezgif.com-gif-maker%20(3).webp " >
+< img alin = "right" alt = "Rafa-yoda" src = " https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/perfi..1.gif " >
 </ div>
 
 <!--
