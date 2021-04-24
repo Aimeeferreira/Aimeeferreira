@@ -10,7 +10,6 @@
 <img align="right" alt = "Aimee-avatar" src="https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar.gif" >
 
 ##
-
 ### Connect with me     <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
 <a href = "mailto: aimeeferreira19@gmail.com" target = "_blank" >
 <img align = "center" alt = "Aimee-Gmail" heigth = "30" width = "40" src = "https://image.flaticon.com/icons/png/512/281/281769.png"  style = "max-width:100%;" > </a>
@@ -20,7 +19,6 @@
 <img align = "center" alt = "Aimee-Instagram" heigth = "30" width = "40" src = "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"  style = "max-width:100%;" > </a>
 
 ##
-
 ### My Skills
 <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  style = "max-width:100%;" > </img>
 <img align = "center" alt = "Aimee-html" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style = "max-width:100%;" > </img>
