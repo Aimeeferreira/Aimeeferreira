@@ -3,7 +3,7 @@
 
 - 19 years 👩🏾
 - Itaúna - MG, Brasil 🏠
-- I am studying the 3rd period in Computer Science 🎓
+- I am studying the 3rd period in Computer Science - UIT 🎓
 - Focused on Full Stack, currently studying C# and HTML 🎯
 - In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
 
