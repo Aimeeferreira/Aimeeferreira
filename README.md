@@ -7,7 +7,7 @@
 - Focused on Full Stack, currently studying C# and HTML 🎯
 - In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
 
-<img align="right" alt = "Aimee-avatar" src="https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/perfi..1%20(3).gif" >
+<img align="right" alt = "Aimee-avatar" src="https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar.gif" >
 
 ##
 
