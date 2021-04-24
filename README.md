@@ -21,7 +21,7 @@
 
 ##
 
-### My Skills:
+### My Skills
 <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  style = "max-width:100%;" > </img>
 <img align = "center" alt = "Aimee-html" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style = "max-width:100%;" > </img>
 
