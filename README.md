@@ -3,8 +3,8 @@
 
 - 19 years 👩🏾
 - Itaúna - MG, Brasil 🏠
-- I am studying the 3rd period in Computer Science - UIT 🎓
-- Focused on Full Stack, currently studying C# and HTML 🎯
+- I am studying the 4rd period in Computer Science - UIT 🎓
+- Focused on Full Stack 🎯
 - In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
 
 <img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar.gif" >
