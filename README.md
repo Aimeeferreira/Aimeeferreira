@@ -1,9 +1,9 @@
 # Hey, Welcomed!!
 ## I'm Aimée
 
-- 19 years 👩🏾
+- 20 years 👩🏾
 - Itaúna - MG, Brasil 🏠
-- I am studying the 4rd period in Computer Science - UIT 🎓
+- I am studying the 5rd period in Computer Science - UIT 🎓
 - Focused on Full Stack 🎯
 - In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
 
