@@ -9,6 +9,8 @@
 
 <img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar.gif" >
 
+https://user-images.githubusercontent.com/63868754/168451277-545a5d4a-f6d3-4e8e-9e72-1445733f90cc.mp4
+
 ##
 ### Connect with me     <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
 <a href = "mailto: aimeeferreira19@gmail.com" target = "_blank" >
