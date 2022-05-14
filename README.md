@@ -7,7 +7,7 @@
 - Focused on Full Stack 🎯
 - In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
 
-<img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar_at.gif" >
+<img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar_at.gif" style="width:350px" >
 
 ##
 ### Connect with me     <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
