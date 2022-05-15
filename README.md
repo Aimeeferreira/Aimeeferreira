@@ -22,7 +22,7 @@
 <img align = "center" alt = "Aimee-html" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style = "max-width:100%;" > </img>
 
 </br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aimeeferreira&label=Profile%20views&color=836FFF& style=flat" alt="Aimeeferreira" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aimeeferreira&label=Profile%20views&color=836FFF& style=plastic" alt="Aimeeferreira" /></p>
 
 
 
