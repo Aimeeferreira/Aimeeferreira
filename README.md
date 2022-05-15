@@ -19,13 +19,11 @@
 
 </br>
 
-![Snake animation](https://github.com/aimeeferreira/aimeeferreira/blob/output/github-contribution-grid-snake.svg)
-
 </br>
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aimeeferreira&label=Profile%20views&color=836FFF& style=plastic" alt="Aimeeferreira" /></p>
 
-
+![Snake animation](https://github.com/aimeeferreira/aimeeferreira/blob/output/github-contribution-grid-snake.svg)
 <!--
 ##
 ### My Skills
