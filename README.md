@@ -18,11 +18,9 @@
 <img align = "center" alt = "Aimee-Spotify" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725281.png" style = "max-width:100%;" > </a>
 
 </br>
+</br>
 
-</br>
-</br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aimeeferreira&label=Profile%20views&color=836FFF& style=plastic" alt="Aimeeferreira" /></p>
-
 
 ![snake gif](https://github.com/Aimeeferreira/Aimeeferreira/blob/output/github-contribution-grid-snake.svg)
 
@@ -31,11 +29,6 @@
 ### My Skills
 <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  style = "max-width:100%;" > </img>
 <img align = "center" alt = "Aimee-html" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style = "max-width:100%;" > </img>
-
-
-
-
-
 
 <!--
 **Aimeeferreira/Aimeeferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
