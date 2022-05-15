@@ -9,7 +9,7 @@
 ##
 ### Connect with me &nbsp; <img align = "center" alt = "Aimee-c" heigth = "30" width = "80" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
 <a href = "mailto: aimeeferreira19@gmail.com" target = "_blank" >
-<img align = "center" alt = "Aimee-Gmail" heigth = "25" width = "50" src = "https://cdn-icons-png.flaticon.com/128/324/324123.png"  style = "max-width:100%;" > </a>
+<img align = "center" alt = "Aimee-Gmail" heigth = "10" width = "47" src = "https://cdn-icons-png.flaticon.com/128/324/324123.png"  style = "max-width:100%;" > </a>
 <a href = "https://www.linkedin.com/in/aimeeferreiraa/" target = "_blank" >
 <img align = "center" alt = "Aimee-Linkedin" heigth = "30" width = "38" src = "https://cdn-icons-png.flaticon.com/128/725/725337.png"  style = "max-width:100%;" > </a>
 <a href = "https://www.instagram.com/aimeeferreira_/?hl=pt-br" target = "_blank" >
