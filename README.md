@@ -1,9 +1,9 @@
 # Hey, Welcomed!! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px"> 
 ## I'm Aimée <img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar_at.gif" style="width:385px" >
 
-- 20 years 👩🏾
+- 20 years 👩🏽‍💻
 - Itaúna - MG, Brazil 🏠
-- I am studying the 5rd period in Computer Science - UIT 🎓
+- I am studying the 5rd period in Computer Science - UI 🎓
 - In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
 
 ##
