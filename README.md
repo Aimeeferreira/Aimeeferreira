@@ -18,7 +18,9 @@
 <img align = "center" alt = "Aimee-Spotify" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725281.png" style = "max-width:100%;" > </a>
 
 </br>
-![Snake animation](https://github.com/Aimeeferreira/Aimeeferreira/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/aimeeferreira/aimeeferreira/blob/output/github-contribution-grid-snake.svg)
+
 </br>
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aimeeferreira&label=Profile%20views&color=836FFF& style=plastic" alt="Aimeeferreira" /></p>
