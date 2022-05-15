@@ -7,7 +7,7 @@
 - In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
 
 ##
-### Connect with me     <img align = "center" alt = "Aimee-c" heigth = "30" width = "80" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
+### Connect with me           <img align = "center" alt = "Aimee-c" heigth = "30" width = "80" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
 <a href = "mailto: aimeeferreira19@gmail.com" target = "_blank" >
 <img align = "center" alt = "Aimee-Gmail" heigth = "25" width = "50" src = "https://cdn-icons-png.flaticon.com/128/324/324123.png"  style = "max-width:100%;" > </a>
 <a href = "https://www.linkedin.com/in/aimeeferreiraa/" target = "_blank" >
