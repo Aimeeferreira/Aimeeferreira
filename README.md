@@ -1,6 +1,5 @@
 # Hey, Welcomed!!
-## I'm Aimée
-<img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar_at.gif" style="width:400px" >
+## I'm Aimée <img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar_at.gif" style="width:385px" >
 
 - 20 years 👩🏾
 - Itaúna - MG, Brasil 🏠
