@@ -16,6 +16,8 @@
 <img align = "center" alt = "Aimee-Instagram" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725278.png" style = "max-width:100%;" > </a>
 <a href = "https://open.spotify.com/user/x286t2cnvupbt5bb7c3p08tx9" target = "_blank" >
 <img align = "center" alt = "Aimee-Spotify" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725281.png" style = "max-width:100%;" > </a>
+<a href = "https://discordapp.com/users/Aimée#5619" target = "_blank" >
+<img align = "center" alt = "Aimee-Discord" heigth = "30" width = "40" src ="https://cdn-icons.flaticon.com/png/512/2335/premium/2335279.png?token=exp=1652598773~hmac=0e790c927b99a194fe137e0167916cf8" style = "max-width:100%;" > </a>
 
 </br>
 </br>
