@@ -1,13 +1,12 @@
 # Hey, Welcomed!!
 ## I'm Aimée
+<img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar_at.gif" style="width:400px" >
 
 - 20 years 👩🏾
 - Itaúna - MG, Brasil 🏠
 - I am studying the 5rd period in Computer Science - UIT 🎓
 - Focused on Full Stack 🎯
 - In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
-
-<img align="right" alt = "Aimee-avatar" src = "https://raw.githubusercontent.com/Aimeeferreira/Aimeeferreira/main/avatar_at.gif" style="width:350px" >
 
 ##
 ### Connect with me     <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
@@ -22,6 +21,12 @@
 ### My Skills
 <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  style = "max-width:100%;" > </img>
 <img align = "center" alt = "Aimee-html" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style = "max-width:100%;" > </img>
+
+</br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aimeeferreira&label=Profile%20views&color=836FFF& style=flat" alt="Aimeeferreira" /></p>
+
+
+
 
 <!--
 **Aimeeferreira/Aimeeferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
