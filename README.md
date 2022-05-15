@@ -10,11 +10,11 @@
 ##
 ### Connect with me     <img align = "center" alt = "Aimee-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
 <a href = "mailto: aimeeferreira19@gmail.com" target = "_blank" >
-<img align = "center" alt = "Aimee-Gmail" heigth = "30" width = "40" src = "https://image.flaticon.com/icons/png/512/281/281769.png"  style = "max-width:100%;" > </a>
+<img align = "center" alt = "Aimee-Gmail" heigth = "25" width = "50" src = "https://th.bing.com/th/id/R.d1feada5576b74bc50b636eacf1eaf4a?rik=aHea25tiyYGqeg&riu=http%3a%2f%2fcomercio1.edu.ar%2fimages%2fgmail.gif&ehk=o6w9L1FedQVnH7SBYu8J0aJ5WdAS7BnpGheI1LUPxEk%3d&risl=&pid=ImgRaw&r=0"  style = "max-width:100%;" > </a>
 <a href = "https://www.linkedin.com/in/aimeeferreiraa/" target = "_blank" >
-<img align = "center" alt = "Aimee-Linkedin" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  style = "max-width:100%;" > </a>
+<img align = "center" alt = "Aimee-Linkedin" heigth = "30" width = "38" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  style = "max-width:100%;" > </a>
 <a href = "https://www.instagram.com/aimeeferreira_/?hl=pt-br" target = "_blank" >
-<img align = "center" alt = "Aimee-Instagram" heigth = "30" width = "40" src = "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"  style = "max-width:100%;" > </a>
+<img align = "center" alt = "Aimee-Instagram" heigth = "30" width = "38" src = "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"  style = "max-width:100%;" > </a>
 
 ##
 ### My Skills
