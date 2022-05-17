@@ -4,7 +4,7 @@
 - 20 years 👩🏽‍💻
 - Itaúna, MG - Brazil 🌃
 - I am studying the 5rd period in Computer Science - UI 🎓
-- In my free time, I like to play games, seek more knowledge(📚), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧) and philosophize with friends!
+- In my free time, I like to play games, play sports, play with animals(🐾), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧), travel and philosophize with friends!
 
 ##
 ### Connect with me &nbsp; <img align = "center" alt = "Aimee-c" heigth = "30" width = "80" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
