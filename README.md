@@ -20,8 +20,6 @@
 <a href = "https://open.spotify.com/user/x286t2cnvupbt5bb7c3p08tx9" target = "_blank" >
 <img align = "center" alt = "Spotify" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725281.png" style = "max-width:100%;" > </a>
 
-
-</br>
 </br>
 </br>
 
