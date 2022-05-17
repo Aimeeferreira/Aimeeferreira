@@ -9,15 +9,15 @@
 ##
 ### Connect with me &nbsp; <img align = "center" alt = "Aimee-c" heigth = "30" width = "80" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
 <a href = "mailto: aimeeferreira19@gmail.com" target = "_blank" >
-<img align = "center" alt = "Aimee-Gmail" heigth = "10" width = "47" src = "https://cdn-icons-png.flaticon.com/128/324/324123.png"  style = "max-width:100%;" > </a>
+<img align = "center" alt = "Gmail" heigth = "10" width = "47" src = "https://cdn-icons-png.flaticon.com/128/324/324123.png"  style = "max-width:100%;" > </a>
 <a href = "https://www.linkedin.com/in/aimeeferreiraa/" target = "_blank" >
-<img align = "center" alt = "Aimee-Linkedin" heigth = "30" width = "38" src = "https://cdn-icons-png.flaticon.com/128/725/725337.png"  style = "max-width:100%;" > </a>
+<img align = "center" alt = "Linkedin" heigth = "30" width = "38" src = "https://cdn-icons-png.flaticon.com/128/725/725337.png"  style = "max-width:100%;" > </a>
 <a href = "https://www.instagram.com/aimeeferreira_/?hl=pt-br" target = "_blank" >
-<img align = "center" alt = "Aimee-Instagram" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725278.png" style = "max-width:100%;" > </a>
+<img align = "center" alt = "Instagram" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725278.png" style = "max-width:100%;" > </a>
 <a href = "https://discordapp.com/users/Aimée#5619" target = "_blank" >
-<img align = "center" alt = "Aimee-Discord" heigth = "30" width = "40" src ="https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Images/discord.png?raw=true" style = "max-width:100%;" > </a>
+<img align = "center" alt = "Discord" heigth = "30" width = "40" src ="https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Images/discord.png?raw=true" style = "max-width:100%;" > </a>
 <a href = "https://open.spotify.com/user/x286t2cnvupbt5bb7c3p08tx9" target = "_blank" >
-<img align = "center" alt = "Aimee-Spotify" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725281.png" style = "max-width:100%;" > </a>
+<img align = "center" alt = "Spotify" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725281.png" style = "max-width:100%;" > </a>
 
 
 </br>
