@@ -1,4 +1,4 @@
-# Hey, Welcomed!! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" height="25px"> 
+# Hey, Welcome!! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" height="25px"> 
 ## I'm Aimée <img align="right" alt = "Aimee-avatar" src = "https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Gif/avatar_at.gif?raw=true" width="300px"  >
 
 - 20 years 👩🏽‍💻
