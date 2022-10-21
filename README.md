@@ -4,7 +4,8 @@
 - 20 years 👩🏽‍💻
 - Itaúna, MG - Brazil 🌃
 - Focused on Front-end 🎯
-- I am studying the 5rd period in Computer Science - UI 🎓
+- I am studying the 6rd period in Computer Science - UI 🎓
+- Currently working at Engeman Eam company 💼
 - In my free time, I like to play games, play sports, play with animals(🐾), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧), travel and philosophize with friends!
 
 ##
