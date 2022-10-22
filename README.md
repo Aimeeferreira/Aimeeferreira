@@ -1,11 +1,11 @@
 # Hey, Welcome!! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" height="25px"> 
 ## I'm Aimée <img align="right" alt = "Aimee-avatar" src = "https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Gif/avatar_at.gif?raw=true" width="250px"  >
 
-- 20 years 👩🏽‍💻
-- Itaúna, MG - Brazil 🌃
-- Focused on Front-end 🎯
-- I am studying the 6rd period in Computer Science - UI 🎓
-- Currently working at Engeman Eam company 💼
+- 🧑🏽‍💻 20 years
+- 🌃 Itaúna, MG - Brazil 
+- 🎯 Focused on Front-end 
+- 🎓 I am studying the 6rd period in Computer Science - UI 
+- 💼 Currently working at Engeman Eam company 
 - In my free time, I like to play games, play sports, play with animals(🐾), play an instrument(🎤🎹🎸), watch series or movies(🎞), listen to music(🎧), travel and philosophize with friends!
 
 ##
