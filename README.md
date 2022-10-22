@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9796ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!😃;My+name+is+Aimée+Ferreira;Be+Welcome!✌🏽😉)](https://git.io/typing-svg)
 
- <img align="right" alt = "Aimee-avatar" src = "https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Gif/avatar_at.gif?raw=true" width="315px">
+ <img align="right" alt = "Aimee-avatar" src = "https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Gif/avatar_at.gif?raw=true" width="312px">
 
 </br>
 
