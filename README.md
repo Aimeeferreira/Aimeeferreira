@@ -27,7 +27,7 @@
 </br>
 
 <div align="center">  
-  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&count_private=true&layout=compact&langs_count=7&title_color=9796ff&icon_color=ff8200&text_color=eeeeee&bg_color=0d1117" alt="Aimee Ferreira github stats" /> 
+  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&count_private=true&layout=compact&langs_count=10&title_color=9796ff&icon_color=ff8200&text_color=eeeeee&bg_color=0d1117" alt="Aimee Ferreira github stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimeeferreira&layout=compact&langs_count=6&title_color=9796ff&text_color=eeeeee&bg_color=0d1117" />
 </div>
 
