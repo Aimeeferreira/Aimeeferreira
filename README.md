@@ -28,7 +28,7 @@
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&count_private=true&layout=compact&langs_count=7&title_color=9796ff&icon_color=ff8200&text_color=eeeeee&bg_color=0d1117" alt="Aimee Ferreira github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimeeferreira&layout=compact&langs_count=7&title_color=9796ff&text_color=eeeeee&bg_color=0d1117" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimeeferreira&layout=compact&langs_count=7&title_color=9796ff&text_color=eeeeee&bg_color=0d1117" />
 </div>
 
 </br>
@@ -37,7 +37,5 @@
 
 ![snake gif](https://github.com/Aimeeferreira/Aimeeferreira/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://wakatime.com/badge/github/Aimeeferreira/Alura_Barbershop"><img src="https://wakatime.com/badge/github/Aimeeferreira/Alura_Barbershop.svg" alt="wakatime"></a>
-
 <!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aimeeferreira)](https://github.com/Aimeeferreira/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aimeeferreira)](https://github.com/Aimeeferreira/github-readme-stats)
