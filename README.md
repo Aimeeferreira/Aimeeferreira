@@ -1,5 +1,8 @@
-# Hey, Welcome!! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" height="25px"> 
-## I'm Aimée <img align="right" alt = "Aimee-avatar" src = "https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Gif/avatar_at.gif?raw=true" width="305px"  >
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9796ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!😃;My+name+is+Aimée+Ferreira;Be+Welcome!✌🏽😉)](https://git.io/typing-svg)
+
+ <img align="right" alt = "Aimee-avatar" src = "https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Gif/avatar_at.gif?raw=true" width="305px">
+
+</br>
 
 - 🧑🏽‍💻 20 years
 - 🌃 Itaúna, MG - Brazil 
@@ -16,14 +19,11 @@
 <a href = "https://www.instagram.com/aimeeferreira_/?hl=pt-br" target = "_blank" >
 <img align = "center" alt = "Instagram" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725278.png" style = "max-width:100%;" > </a>
 
+</br>
+
 ## 
-<!--
-<div align="LEFT">
-  </br>
-  <a href="https://github.com/Aimeeferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimeeferreira&layout=compact&langs_count=7&theme=aura"/>
-</div>
--->
+
+</br>
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&count_private=true&layout=compact&langs_count=7&title_color=9796ff&icon_color=ff8200&text_color=eeeeee&bg_color=0d1117" alt="Aimee Ferreira github stats" /> 
