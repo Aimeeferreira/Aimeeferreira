@@ -1,5 +1,5 @@
 # Hey, Welcome!! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" height="25px"> 
-## I'm Aimée <img align="right" alt = "Aimee-avatar" src = "https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Gif/avatar_at.gif?raw=true" width="315px"  >
+## I'm Aimée <img align="right" alt = "Aimee-avatar" src = "https://github.com/Aimeeferreira/Aimeeferreira/blob/main/.github/Gif/avatar_at.gif?raw=true" width="300px"  >
 
 - 🧑🏽‍💻 20 years
 - 🌃 Itaúna, MG - Brazil 
@@ -20,7 +20,7 @@
 <!--<div align="center">-->
   </br>
   <a href="https://github.com/Aimeeferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimeeferreira&layout=compact&langs_count=7&theme=aura"/>
 <!--</div>-->
 
