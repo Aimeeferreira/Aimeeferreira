@@ -17,10 +17,17 @@
 <img align = "center" alt = "Instagram" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725278.png" style = "max-width:100%;" > </a>
 
 ## 
+<!--
 <div align="LEFT">
   </br>
   <a href="https://github.com/Aimeeferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimeeferreira&layout=compact&langs_count=7&theme=aura"/>
+</div>
+-->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Aimeeferreira&show_icons=true&count_private=true&layout=compact&langs_count=7&title_color=9796ff&icon_color=ff8200&text_color=eeeeee&bg_color=0d1117" alt="Aimee Ferreira github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimeeferreira&layout=compact&langs_count=7&title_color=9796ff&text_color=eeeeee&bg_color=0d1117" />
 </div>
 
 </br>
