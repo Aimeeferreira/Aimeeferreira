@@ -7,7 +7,7 @@
 - 🧑🏽‍💻 21 years
 - 🌃 Itaúna, MG - Brazil 
 - 🎯 Focused on Front-end 
-- 🎓 I'm studying the 6rd period in Computer Science - UI 
+- 🎓 I'm studying the 7rd period in Computer Science - UI 
 - 💼 Currently working at Engeman Eam company 
 
 ##
