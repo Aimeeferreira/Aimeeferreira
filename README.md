@@ -4,7 +4,7 @@
 
 </br>
 
-- 🧑🏽‍💻 20 years
+- 🧑🏽‍💻 21 years
 - 🌃 Itaúna, MG - Brazil 
 - 🎯 Focused on Front-end 
 - 🎓 I'm studying the 6rd period in Computer Science - UI 
