@@ -9,6 +9,8 @@
 - 🎯 Focused on Front-end 
 - 🎓 I'm studying the 8rd period in Computer Science - UI
 
+
+
 ##
 ### Connect with me &nbsp; <img align = "center" alt = "Aimee-c" heigth = "30" width = "80" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
 <a href = "mailto: aimeeferreira19@gmail.com" target = "_blank" >
@@ -18,6 +20,7 @@
 <a href = "https://www.instagram.com/aimeeferreira_/?hl=pt-br" target = "_blank" >
 <img align = "center" alt = "Instagram" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725278.png" style = "max-width:100%;" > </a>
 
+</br>
 </br>
 </br>
 
@@ -32,9 +35,8 @@
 
 </br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aimeeferreira&label=Profile%20views&color=AD58FB&style=plastic" alt="Aimeeferreira" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aimeeferreira&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Aimeeferreira" /></p>
+
+</br>
 
 ![snake gif](https://github.com/Aimeeferreira/Aimeeferreira/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aimeeferreira)](https://github.com/Aimeeferreira/github-readme-stats)
