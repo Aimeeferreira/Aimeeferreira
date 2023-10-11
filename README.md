@@ -5,10 +5,9 @@
 </br>
 
 - 🧑🏽‍💻 21 years
-- 🌃 Itaúna, MG - Brazil 
+- 🌃 MG - Brazil 
 - 🎯 Focused on Front-end 
-- 🎓 I'm studying the 7rd period in Computer Science - UI 
-- 💼 Currently working at Engeman Eam company 
+- 🎓 I'm studying the 8rd period in Computer Science - UI
 
 ##
 ### Connect with me &nbsp; <img align = "center" alt = "Aimee-c" heigth = "30" width = "80" src = "https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif"  style = "max-width:100%;" > </img>
