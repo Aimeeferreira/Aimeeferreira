@@ -7,7 +7,7 @@
 - 🧑🏽‍💻 22 years
 - 🌃 MG - Brazil 
 - 🎯 Focused on Front-end 
-- 🎓 I'm studying the 8rd period in Computer Science - UI
+- 🎓 Graduated in Computer Science from the University of Itaúna (UIT)
 
 
 
