@@ -4,7 +4,7 @@
 
 </br>
 
-- 🧑🏽‍💻 21 years
+- 🧑🏽‍💻 22 years
 - 🌃 MG - Brazil 
 - 🎯 Focused on Front-end 
 - 🎓 I'm studying the 8rd period in Computer Science - UI
