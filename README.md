@@ -17,9 +17,10 @@
 <img align = "center" alt = "Gmail" heigth = "10" width = "47" src = "https://cdn-icons-png.flaticon.com/128/324/324123.png"  style = "max-width:100%;" > </a>
 <a href = "https://www.linkedin.com/in/aimeeferreiraa/" target = "_blank" >
 <img align = "center" alt = "Linkedin" heigth = "30" width = "38" src = "https://cdn-icons-png.flaticon.com/128/725/725337.png"  style = "max-width:100%;" > </a>
+<!--
 <a href = "https://www.instagram.com/aimeeferreira_/?hl=pt-br" target = "_blank" >
 <img align = "center" alt = "Instagram" heigth = "30" width = "40" src ="https://cdn-icons-png.flaticon.com/512/725/725278.png" style = "max-width:100%;" > </a>
-
+ /> -->
 </br>
 </br>
 </br>
