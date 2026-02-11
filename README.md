@@ -4,7 +4,7 @@
 
 </br>
 
-- 🧑🏽‍💻 24 years
+- 👩🏿‍💻 24 years
 - 🌃 MG - Brazil 
 - 🎯 Focused on Back-end 
 - 🎓 Graduated in Computer Science from the University of Itaúna (UIT)
